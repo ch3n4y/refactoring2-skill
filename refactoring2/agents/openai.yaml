@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refactoring 2 Coach"
+  short_description: "识别代码异味，并以小步、可验证的方式安全重构"
+  default_prompt: "Use $refactoring2 to identify the highest-value code smell and refactor it through small, behavior-preserving, test-backed steps."
